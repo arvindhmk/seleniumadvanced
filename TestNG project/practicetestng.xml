@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="practiceSuite">
+  
+  <test thread-count="5" name="practiceTest">
+    <classes>
+      <class name="practice.setdependency"/>
+    </classes>    
+    </test>
+ 
+ <test name="createtestngsuite">
+ <classes>
+      <class name="practice.createtestngsuite"/>
+  </classes>
+  </test>
+  
+  <test name="setptiority">
+  <classes>
+      <class name="practice.setpriority"/>
+  </classes>
+  </test> <!-- practiceTest -->
+</suite> <!-- practiceSuite -->

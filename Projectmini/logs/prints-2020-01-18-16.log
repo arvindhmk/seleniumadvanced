@@ -1,0 +1,7 @@
+06:38:37.760 [main] INFO  Academy.homepage - restricted user
+06:39:08.816 [main] INFO  Academy.homepage - non restricted user
+06:39:21.525 [main] INFO  Academy.validatelandingPagetext - Driver initialized
+06:39:28.380 [main] INFO  Academy.validatelandingPagetext - Navigated to homepage
+06:39:46.129 [main] INFO  Academy.verifynavigationbar - Navifation bar is displayed
+09:15:59.376 [main] INFO  Academy.homepage - restricted user
+09:16:36.212 [main] INFO  Academy.homepage - non restricted user

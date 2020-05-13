@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [practiceSuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="practiceTest(failed)">
+    <classes>
+      <class name="practice.setdependency">
+        <methods>
+          <include name="opensite"/>
+          <include name="createaccount"/>
+        </methods>
+      </class> <!-- practice.setdependency -->
+    </classes>
+  </test> <!-- practiceTest(failed) -->
+</suite> <!-- Failed suite [practiceSuite] -->
