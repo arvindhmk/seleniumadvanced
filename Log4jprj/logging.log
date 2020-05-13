@@ -1,0 +1,13 @@
+log info
+warning message
+error message
+fatal message
+2020-02-13 19:54:10 INFO  logUsingpropertyfile:16 -log info
+	2020-02-13 19:54:10 WARN  logUsingpropertyfile:17 -warning message
+	2020-02-13 19:54:10 ERROR logUsingpropertyfile:18 -error message
+	2020-02-13 19:54:10 FATAL logUsingpropertyfile:19 -fatal message
+	2020-02-13 19:55:13 INFO  logUsingpropertyfile:16 -log info
+	2020-02-13 19:55:13 WARN  logUsingpropertyfile:17 -warning message
+	2020-02-13 19:55:13 ERROR logUsingpropertyfile:18 -error message
+	2020-02-13 19:55:13 FATAL logUsingpropertyfile:19 -fatal message
+	

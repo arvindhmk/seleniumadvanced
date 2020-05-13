@@ -1,0 +1,4 @@
+2020-02-13 20:13:43,438 INFO  [usingxmlconfigurator] log info 
+2020-02-13 20:13:43,438 WARN  [usingxmlconfigurator] warning message 
+2020-02-13 20:13:43,438 ERROR [usingxmlconfigurator] error message 
+2020-02-13 20:13:43,438 FATAL [usingxmlconfigurator] fatal message 
